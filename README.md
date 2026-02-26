@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SilasvanderWaal
-- 👀 I’m interested in computer software and hardware
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on learning to code together
+- 👀 I’m interested in computer software
+- 🌱 I'm currently developing a web app and exploring the wonders of homelabbing
 - 📫 How to reach me: silasvanderwaal@gmail.com
 
 <!---
